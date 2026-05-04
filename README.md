@@ -5,7 +5,17 @@ This project focuses on analyzing data to extract meaningful insights and suppor
 
 ---
 
-## Problem Statement
+## Project Workflow
+1. Problem Statement  
+2. Data Collection & Understanding  
+3. Data Cleaning & Preparation  
+4. Data Analysis & Insights  
+5. Data Visualization  
+6. Business Recommendations
+
+---
+
+## 1. Problem Statement
 The goal of this project is to:
 - Define the business problem
 - Identify key questions to answer
@@ -13,24 +23,19 @@ The goal of this project is to:
 
 ---
 
-## Data Source
-- Dataset: *(E-commerce Sales Data)*
+## 2. Data Collection
+- Dataset: E-commerce Sales Data
 - Format: CSV
-- Source: *(e.g., internal system, public dataset, etc.)
+- Source: public dataset: 
 
 ---
 
-## Data Cleaning & Preparation
-The following steps were performed:
-- Removed duplicates
-- Handled missing values
-- Corrected data types (dates, numbers, categories)
-- Standardized column formats
-- Created new calculated columns where necessary
+## 3. Data Cleaning & Preparation
+- The dataset was already clean from the source
 
 ---
 
-## Data Analysis & Insights
+## 4. Data Analysis & Insights
 - Performed exploratory data analysis (EDA)
 - Used aggregations (SUM, COUNT, AVERAGE)
 - Identified trends and patterns
@@ -38,23 +43,26 @@ The following steps were performed:
 
 ---
 
-## Data Visualization
-Interactive dashboards were created using **Power BI**:
-- KPI tracking (e.g., total sales, transactions)
-- Trend analysis (monthly, yearly)
-- Category and segment breakdowns
-- Clear and user-friendly visuals
+## 5. Data Visualization
+Interactive dashboards were created using **Tableau**:
+- 
 
 ---
 
-## Key Insights
-- Insight 1: *(e.g., High spending in certain departments)*
-- Insight 2: *(e.g., Peak transactions during specific months)*
-- Insight 3: *(e.g., Certain payment methods are more popular)*
+## 5.1 Key Insights
+- Insight 1: High spending in certain departments
+
+
+- Insight 2:
+
+
+- Insight 3:
+
+
 
 ---
 
-## ✅ Recommendations
+## 6. Recommendations
 Based on the analysis:
 - Automate repetitive processes (e.g., payment reminders)
 - Monitor high-value transactions closely
@@ -62,21 +70,10 @@ Based on the analysis:
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Excel** – Data cleaning
+## Tools & Technologies
 - **SQL / Databricks** – Data querying & processing
-- **Power BI** – Data visualization
-- **GitHub** – Version control & project documentation
-
----
-
-## 🚀 Project Workflow
-1. Problem Statement  
-2. Data Collection & Understanding  
-3. Data Cleaning & Preparation  
-4. Data Analysis & Insights  
-5. Data Visualization  
-6. Business Recommendations  
+- **Tableau** – Data visualization
+- **GitHub** – Version control & project documentation 
 
 ---
 
