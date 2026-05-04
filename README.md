@@ -31,7 +31,7 @@ The goal of this project is to:
 ## 2. Data Collection
 - Dataset: E-commerce Sales Data
 - Format: CSV
-- Source: public dataset: 
+- Source: public dataset: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
 
 ---
 
