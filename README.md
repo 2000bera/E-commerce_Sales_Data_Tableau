@@ -3,6 +3,11 @@
 ## Overview
 This project focuses on analyzing data to extract meaningful insights and support business decision-making. It follows a structured workflow from problem definition to actionable recommendations.
 
+## Building this project
+- I uploaded dataset to the warehouse (Databricks) to perform SQL query
+- Connected my workspace to Tableau for visualization using: Server Hostname, HTTP Path, and Token
+- My workspace (dataset) will be available on Tableau
+
 ---
 
 ## Project Workflow
@@ -78,7 +83,6 @@ Based on the analysis:
 
 ## Project Outcome
 This project demonstrates the ability to:
-- Clean and prepare raw data
 - Analyze data to extract insights
 - Build dashboards for decision-making
 - Provide actionable business recommendations
