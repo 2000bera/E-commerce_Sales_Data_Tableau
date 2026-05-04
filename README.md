@@ -47,7 +47,6 @@ The goal of this project is to:
 Interactive dashboards were created using **Tableau**:
 - 
 
----
 
 ## 5.1 Key Insights
 - Insight 1: High spending in certain departments
